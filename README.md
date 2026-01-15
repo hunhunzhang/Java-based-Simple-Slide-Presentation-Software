@@ -1,6 +1,6 @@
-java版本21.0.4
-IDE:IntelliJ IDEA Community Edition 2024.2.1
-源代码的编辑、编译、运行、测试都在此IDE中完成
+#java版本21.0.4
+#IDE:IntelliJ IDEA Community Edition 2024.2.1
+#源代码的编辑、编译、运行、测试都在此IDE中完成
 在IDEA中新建java项目在将所有源代码文件复制粘贴到项目文件夹src中编译运行即可
 
 也可通过命令行运行可执行文件运行程序：
